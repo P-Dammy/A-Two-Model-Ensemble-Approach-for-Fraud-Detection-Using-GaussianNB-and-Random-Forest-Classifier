@@ -50,7 +50,7 @@ The predictions from both models are linearly combined, significantly boosting t
 ---
 ## Data Loading & Exploratory Data Analysis
 
-- The dataset (`onlinefraud.csv`) is loaded, and initial data exploration is conducted, such as:
+- The dataset (`onlinefraud.csv`) gotten from **https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset** is loaded, and initial data exploration is conducted, such as:
   - Checking column names, data types, and missing values.
   - Analyzing the distribution of transaction types.
 - Descriptive statistics and visualizations are used to gain insights, including:
